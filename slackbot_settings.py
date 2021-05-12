@@ -1,0 +1,5 @@
+API_TOKEN = "xoxb-1802961712306-2056872269331-124kMD1RPrFdN5DgifaFrsjZ"
+
+DEFAULT_REPLY = "こんにちは、こちらは勤怠管理Botです。"
+
+PLUGINS = ['plugins']
